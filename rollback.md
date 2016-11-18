@@ -1,2 +1,5 @@
-This is the first line of text.
-This is the second line of text.
+Maria Nieves is my name. 
+I am a senior at HSTAT.
+I like carvel.
+I think today is a nice day.
+I want some nachos.
